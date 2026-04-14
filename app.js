@@ -47,7 +47,7 @@ const roadmap = [
 
 const team = [
   {
-    name: "Selen Kəlbalıyeva",
+    name: "Selen Kalbalıyeva",
     role: "Layihə rəhbəri"
   },
   {
